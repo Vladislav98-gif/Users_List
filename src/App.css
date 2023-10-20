@@ -1,0 +1,254 @@
+.base {
+  color: rgb(12, 162, 221);
+  text-align: center;
+  text-decoration: solid;
+  font-size: 40px;
+  margin-bottom: 500px;
+  margin-left: 250px;
+}
+
+.base:hover {
+  color: brown;
+}
+
+
+.Global {
+  display: flex;
+  text-align: center;
+  margin-left: 200px;
+}
+
+.image1 {
+  position: absolute;
+  width: 60px;
+  height: 70px;
+  animation: bounce 3s linear infinite;
+  margin-left: 180px;
+  margin-top: 35px;
+}
+
+.image2 {
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 35px;
+}
+
+
+.Users {
+  font-size: larger;
+  margin-top: 120px;
+  margin-left: -160px;
+  color: gold;
+}
+
+.App {
+  align-self: center;
+  margin-left: -890px;
+  margin-top: 240px;
+}
+
+.Modal-X {
+  align-self: center;
+  position: absolute;
+  align-self: center;
+  margin-top: 50px;
+}
+
+.modal-content {
+  align-self: center;
+  position: absolute;
+  align-self: center;
+  margin-top: 50px;
+}
+
+.New-User {
+  color: darkgoldenrod;
+  margin-left: 50px;
+  background-color: gold;
+}
+
+.Lyoha {
+  align-items: center;
+  margin-top: 40px;
+  color: red;
+}
+
+.uklon {
+  margin-left: -400px;
+  color: aliceblue;
+}
+
+.UklonList {
+  margin-left: -470px;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+.user-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.user-item {
+
+ 
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  margin-left: 80px;
+}
+
+.user-item button {
+ 
+  color: aliceblue;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-left: 5px;
+}
+
+
+.New-User {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: -500px;
+  margin-left: 100px;
+}
+
+.New-User:hover {
+  background-color: #1c7430;
+}
+
+.New-User2{
+  display: block;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-left: 340px;
+  margin-top: 10px;
+}
+
+.New-User2:hover{
+  background-color: #1c7430;
+}
+
+.Forma{
+  align-items: center;
+  margin-left: -800px;
+  margin-top: 0px;
+  color: white;
+}
+
+
+.Rtx{
+color: white;
+}
+
+.List{
+  color: white;
+  margin-top: 250px;
+  margin-left: -900px;
+}
+
+.CreateForm{
+
+  display: block;
+
+  margin-top: 20px;
+  margin-left: -800px;
+}
+
+.UsersButton{
+  color: gold;
+}
+
+.UsersButton1{
+  background-color: gold;
+ color: black;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.UsersButton1:hover{
+background-color: yellow;
+}
+
+.Delete{
+  background-color: firebrick;
+  color: aliceblue;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.Delete:hover{
+  background-color: red;
+}
+.info{
+  background-color: #5815f5;
+}
+
+.info:hover{
+  background-color: #2307c0;
+}
+
+.Redact{
+  background-color:  rgb(12, 162, 221);
+  color: black;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.Redact:hover{
+  background-color: aqua;
+}
+
+.Save{
+  background-color:  #28a745;
+  color: black;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.Save:hover{
+  background-color: #1c7430;
+}
+
+.Cancel{
+  background-color:  firebrick;
+  color: black;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.Cancel:hover{
+  background-color: red;
+}

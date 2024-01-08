@@ -142,7 +142,7 @@ body {
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
-  margin-left: 340px;
+  margin-left: 250px;
   margin-top: 10px;
 }
 
@@ -152,7 +152,7 @@ body {
 
 .Forma{
   align-items: center;
-  margin-left: -800px;
+  margin-left: -720px;
   margin-top: 0px;
   color: white;
 }
@@ -173,7 +173,7 @@ color: white;
   display: block;
 
   margin-top: 20px;
-  margin-left: -800px;
+  margin-left: -700px;
 }
 
 .UsersButton{

@@ -72,7 +72,7 @@ return (
         <p>
           
           <Users />
-          <MainPage/>
+         
 
         </p>
 
